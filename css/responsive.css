@@ -21,7 +21,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
   /* Navbar */
   nav {
-    padding: 0px 0px;
+    padding: 10px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -41,7 +41,7 @@
   }
   .responsive {
     float: right;
-    padding-top: 15px;
+    padding-top: 0px;
     display: block;
   }
   /* About */
@@ -92,7 +92,7 @@
 @media (max-width: 767px) {
   /* Navbar */
   nav {
-    padding: 0px 0px;
+    padding: 20px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -112,7 +112,7 @@
   }
   .responsive {
     float: right;
-    padding-top: 15px;
+    padding-top: 0px;
     display: block;
   }
   /* About */
@@ -163,7 +163,7 @@
 @media (max-width: 600px) {
   /* Navbar */
   nav {
-    padding: 0px 0px;
+    padding: 20px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -183,7 +183,7 @@
   }
   .responsive {
     float: right;
-    padding-top: 15px;
+    padding-top: 0px;
     display: block;
   }
   /* About */
@@ -234,7 +234,7 @@
 @media (max-width: 480px) {
   /* Navbar */
   nav {
-    padding: 0px 0px;
+    padding: 20px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -304,7 +304,7 @@
 @media (max-width: 320px) {
   /* Navbar */
   nav {
-    padding: 0px 0px;
+    padding: 20px 15px;
   }
   .nav-menu {
     margin-top: 40px;
