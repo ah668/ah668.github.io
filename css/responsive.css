@@ -21,10 +21,10 @@
 @media (min-width: 768px) and (max-width: 991px) {
   /* Navbar */
   nav {
-    padding: 10px 15px;
+    padding: 0px 0px;
   }
   .nav-menu {
-    margin-top: 40px;
+    margin-top: 0px;
     display: none;
     float: none;
     width: 100%;
@@ -36,8 +36,8 @@
     border-top: 1px solid #f7f7f7;
     line-height: 45px;
     margin-left: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
   .responsive {
     float: right;
@@ -112,7 +112,7 @@
   }
   .responsive {
     float: right;
-    padding-top: 0px;
+    padding-top: 15px;
     display: block;
   }
   /* About */
@@ -183,7 +183,7 @@
   }
   .responsive {
     float: right;
-    padding-top: 0px;
+    padding-top: 15px;
     display: block;
   }
   /* About */
