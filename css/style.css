@@ -288,10 +288,11 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #about {
-  width: 100%;
+  width: 80%;
   height: auto;
   background: #f7f7f7;
-  padding-top: 100px;
+  padding-top: 100px; 
+  /* I am editing this to see if it changes the header */ 
 }
 
 #about .div-img-bg {
