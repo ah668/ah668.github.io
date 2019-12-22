@@ -8824,6 +8824,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
+  text-align: right !important;
   color: #007bff !important;
 }
 
