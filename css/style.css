@@ -156,8 +156,8 @@ p {
 }
 
 .paddsectionsmall {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .paddsections {
@@ -209,7 +209,7 @@ nav ul li {
 }
 
 nav ul li a {
-  padding: 2px 100px 0 0;
+  padding: 2px 50px 0 0;
   position: relative;
   display: block;
   font-size: 14px;
@@ -287,25 +287,23 @@ nav ul li a {
   color: #fff;
   font-size: 15px;
 }
-
 /*-----------------------------------------------------------------------------------*/
-/*  Aout-us
+/*  education-us
 /*-----------------------------------------------------------------------------------*/
 
-#about {
+#education {
   width: 100%;
   height: auto;
   background: #f7f7f7;
   padding-top: 40px; 
 }
 
-
-#about .div-img-bg {
+#education .div-img-bg {
   padding-bottom: 30px;
   border: 20px solid #b8a07e;
 }
 
-#about .div-img-bg .about-img img {
+#education .div-img-bg .about-img img {
   width: 256px;
   box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
   margin-top: -60px;
@@ -314,18 +312,61 @@ nav ul li a {
   object-fit: cover;
 }
 
-#about .about-descr .p-heading {
+#education .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
 }
 
-#about .about-descr .separator {
+#education .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
 }
 
+#education ul li {
+  margin: 5px 0;
+}
+/*-----------------------------------------------------------------------------------*/
+/*  experience-us
+/*-----------------------------------------------------------------------------------*/
+
+#experience {
+  width: 100%;
+  height: auto;
+  background: #f7f7f7;
+  padding-top: 40px; 
+}
+
+#experience .div-img-bg {
+  padding-bottom: 30px;
+  border: 20px solid #b8a07e;
+}
+
+#experience .div-img-bg .about-img img {
+  width: 256px;
+  box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
+  margin-top: -60px;
+  margin-left: 40px;
+  height: 320px;
+  object-fit: cover;
+}
+
+#experience .about-descr .p-heading {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  text-align: left;
+}
+
+#experience .about-descr .separator {
+  max-width: 80%;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+#experience ul li {
+  margin: 5px 0;
+}
 /*-----------------------------------------------------------------------------------*/
 /*   Services
 /*-----------------------------------------------------------------------------------*/
