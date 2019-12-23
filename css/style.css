@@ -151,8 +151,13 @@ p {
 }
 
 .paddsection {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 40px;
+  padding-bottom: 0px;
+}
+
+.paddsectionquestion {
+  padding-top: 0px;
+  padding-bottom: 40px;
 }
 
 .paddsectionsmall {
@@ -438,21 +443,21 @@ nav ul li a {
 /*  Portfolio
 /*-----------------------------------------------------------------------------------*/
 
-#portfolio {
+#photography {
   position: relative;
   padding-bottom: 50px;
 }
 
-#portfolio .portfolio-list {
+#photography .portfolio-list {
   margin-bottom: 50px;
 }
 
-#portfolio .portfolio-list .nav {
+#photography .portfolio-list .nav {
   display: inline-block;
   margin: 0;
 }
 
-#portfolio .portfolio-list .nav li {
+#photography .portfolio-list .nav li {
   margin: 0 40px 0 0;
   float: left;
   font-size: 14px;
@@ -470,7 +475,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-#portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
+#photography .portfolio-list .nav li:hover, #photography .portfolio-list .nav li.filter-active  {
   color: #b8a07e;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -479,7 +484,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-#portfolio .portfolio-container {
+#photography .portfolio-container {
   display: inline-block;
   margin-bottom: 50px;
   width: 100%;

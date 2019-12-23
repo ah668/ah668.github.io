@@ -44,21 +44,36 @@
     padding-top: 15px;
     display: block;
   }
-  /* About */
+  /* Education */
   .head-info .header-content .cmaster h1 {
     font-size: 32px;
   }
-  #about .div-img-bg {
+  #education .div-img-bg {
     padding: 0;
   }
-  #about .div-img-bg .about-img img {
+  #education .div-img-bg .about-img img {
     margin-top: 0%;
     margin-left: calc(0% - 0px);
   }
-  #about .about-descr .p-heading {
+  #education .about-descr .p-heading {
     font-size: 20px;
   }
-  #about .about-descr .separator {
+  #education .about-descr .separator {
+    max-width: 100%;
+    margin-bottom: 0;
+  }
+  /* Experience */
+  #experience .div-img-bg {
+    padding: 0;
+  }
+  #experience .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
+  }
+  #experience .about-descr .p-heading {
+    font-size: 20px;
+  }
+  #experience .about-descr .separator {
     max-width: 100%;
     margin-bottom: 0;
   }
