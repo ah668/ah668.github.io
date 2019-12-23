@@ -194,7 +194,7 @@
 @media (max-width: 600px) {
   /* Navbar */
   nav {
-    padding: 20px 15px;
+    padding: 10px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -280,7 +280,7 @@
 @media (max-width: 480px) {
   /* Navbar */
   nav {
-    padding: 20px 15px;
+    padding: 10px 15px;
   }
   .nav-menu {
     margin-top: 40px;
@@ -365,7 +365,7 @@
 @media (max-width: 320px) {
   /* Navbar */
   nav {
-    padding: 20px 15px;
+    padding: 10px 15px;
   }
   .nav-menu {
     margin-top: 40px;
