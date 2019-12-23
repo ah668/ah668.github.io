@@ -8824,12 +8824,10 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  text-align: right !important;
   color: #007bff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  text-align: right !important;
   color: #0062cc !important;
 }
 
