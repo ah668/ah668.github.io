@@ -463,7 +463,7 @@ nav ul li a {
 
 #photography {
   position: relative;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 
 #photography .portfolio-list {
@@ -504,7 +504,7 @@ nav ul li a {
 
 #photography .portfolio-container {
   display: inline-block;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   width: 100%;
 }
 
