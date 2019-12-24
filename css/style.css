@@ -101,14 +101,15 @@ p {
 }
 
 .btn {
-  background: #333;
-  border: medium none;
-  border-radius: 0;
+  background: #484f4f;
+  border: medium solid #fff ;
+  border-radius: 10;
   color: #fff;
-  font-size: 12px;
+  font-size: 16px;
+  width: 140px;
   height: 50px;
   line-height: 50px;
-  padding: 0 30px;
+  padding: 0 0px;
   text-transform: uppercase;
 }
 
@@ -277,7 +278,7 @@ nav ul li a {
   font-size: 13px;
   letter-spacing: 5px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
@@ -291,7 +292,24 @@ nav ul li a {
 .header-content .list-social li i {
   color: #fff;
   font-size: 15px;
+
+  cursor: pointer;
+  -moz-transition: all 0.5s ease-in-out 0s;
+  -ms-transition: all 0.5s ease-in-out 0s;
+  -o-transition: all 0.5s ease-in-out 0s;
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
 }
+
+.header-content .list-social li i:hover, .header-content .nav li i.filter-active {
+  color: #A1A9B0;
+  -moz-transition: all 0.5s ease-in-out 0s;
+  -ms-transition: all 0.5s ease-in-out 0s;
+  -o-transition: all 0.5s ease-in-out 0s;
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*  education-us
 /*-----------------------------------------------------------------------------------*/
