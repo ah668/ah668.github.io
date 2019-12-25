@@ -138,7 +138,7 @@ $(document).ready(function() {
 });
 
 // ========================================================================= //
-//  Porfolio isotope and filterd
+//  Porfolio isotope and filter
 // ========================================================================= //
 $(window).load(function(){
 
