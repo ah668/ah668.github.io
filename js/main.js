@@ -144,7 +144,7 @@ $(window).load(function(){
 
   var portfolioIsotope = $('.portfolio-container').isotope({
     itemSelector: '.portfolio-thumbnail',
-    layoutMode: 'masonry'
+    layoutMode: 'fit-rows'
   });
 
   $('#portfolio-flters li').on( 'click', function() {
