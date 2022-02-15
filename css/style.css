@@ -10,7 +10,7 @@
 /*-----------------------------------------------------------------------------------*/
 
 body {
-  background: #ffffff;
+  background-color: #f7f7f7;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -592,6 +592,7 @@ nav ul li a {
 #contact {
   height: auto;
   width: 100%;
+  background-color: #f7f7f7;
 }
 
 .contact-details {
@@ -657,6 +658,7 @@ nav ul li a {
 
 #footer .socials-media ul {
   display: inline-block;
+  background-color: #f7f7f7;
   float: none;
   margin: 0 0 20px 0;
 }
@@ -672,7 +674,7 @@ nav ul li a {
   color: #999;
   letter-spacing: 0.1em;
   font-weight: 500;
-  background: transparent;
+  background-color: #f7f7f7;
   text-transform: uppercase;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -695,9 +697,11 @@ nav ul li a {
   letter-spacing: 0.1em;
   font-weight: 500;
   margin-top: 0;
+  background-color: #f7f7f7;
   text-transform: uppercase;
 }
 
 .credits {
   font-size: 13px;
+  background-color: #f7f7f7;
 }
