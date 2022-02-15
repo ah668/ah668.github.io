@@ -593,6 +593,7 @@ nav ul li a {
   height: auto;
   width: 100%;
   background-color: #f7f7f7;
+  padding-top: 80px;
 }
 
 .contact-details {
